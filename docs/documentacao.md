@@ -1,5 +1,9 @@
 # Trabalho Pratico 2 - FPAA
 
+Aluno: Lucas Picinin  
+Matricula: 689393  
+Repositorio: https://github.com/Lucas-Lutti/FPAA-Atividade-2
+
 ## 1. Modelagem do problema
 
 O tabuleiro foi representado por uma matriz quadrada de tamanho par. Cada posicao pode estar vazia ou conter um dos dois simbolos do jogo:
