@@ -1,0 +1,23 @@
+# Exemplo 6x6 com poucas lacunas, bom para comparar forca bruta e backtracking.
+6
+S S L L S L
+L L S S L S
+S L . L L S
+L S L . S L
+S . L S L .
+. S S L S L
+
+H
+= . . x x
+= . . x x
+x . . . x
+x x x = x
+x = x x x
+x = x x x
+
+V
+x x x x x x
+x = = x = =
+x x x x x x
+x x = = x x
+x x x x x x

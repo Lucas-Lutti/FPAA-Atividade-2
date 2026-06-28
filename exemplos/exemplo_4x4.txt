@@ -1,0 +1,17 @@
+# Exemplo menor. Como tem poucas casas vazias, e util para visualizar a forca bruta.
+4
+S . L .
+. L S S
+S L . .
+. S S L
+
+H
+= x =
+= x =
+x = x
+x = x
+
+V
+x x x x
+x = x =
+x x x x

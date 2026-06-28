@@ -1,0 +1,24 @@
+# Transcricao aproximada do print enviado.
+# O print serve como referencia visual; o programa trabalha com este texto.
+6
+. S S . . S
+. . . . . .
+. L . S . L
+. . S . S .
+S . . . . L
+. L . . . .
+
+H
+. . . . .
+. . . . .
+. . . . .
+. . . . .
+. . . . .
+. . . . .
+
+V
+. . . . . x
+. . . . . .
+. . . . x .
+. . . . . .
+. . . . . .
